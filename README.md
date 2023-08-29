@@ -1,6 +1,6 @@
 # Hi there, I am Marco
 
-- 👋 State certified technical engineer in the process to become a web-developer at @coding-bootcamps-eu
+- 👋 State certified technical engineer in the process to become a web-developer at (@coding-bootcamps-eu)
 - 💡 Highly interested in technology
 - ✈️ Traveled quiet a few countries to see phenomenal nature and learn about other cultures
 - 📚 Loves to read good books about personal development
