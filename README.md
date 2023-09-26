@@ -7,7 +7,7 @@
 - 📚 Loves to read good books about learning and personal development
 
 
-My book recommendation for everyone who is interested in getting a better memory: 📚 Unlimited Memory by Kevin Horsley 📚
+My book recommendation for everyone who is interested in getting a better memory: 📚 "Unlimited Memory" by Kevin Horsley 📚
 
 "If you are struggling, you are doing something wrong. There is a better way to do it!" - One of my workmates
 
