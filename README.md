@@ -2,8 +2,7 @@
 
 - 💻 State certified technical engineer in the process to become a web-developer at [@coding-bootcamps-eu](https://github.com/coding-bootcamps-eu)
 - 🙏 Experienced team leader with a "can-do" attitude
-- 💡 Highly interested in technology (🚌 🛠recently restored an old VW van ⚙️ 🚌)
-- ✈️ Traveled quiet a few countries to see phenomenal nature and learn about other cultures
+- 💡 Highly interested in technology 
 - 📚 Loves to read good books about learning and personal development
 
 
