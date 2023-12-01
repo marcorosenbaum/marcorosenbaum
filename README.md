@@ -1,14 +1,11 @@
 # Hi there, I am Marco 👋
 
-- 💻 State certified technical engineer in the process to become a web-developer at [@coding-bootcamps-eu](https://github.com/coding-bootcamps-eu)
-- 🙏 Experienced team leader with a "can-do" attitude
-- 💡 Highly interested in technology 
-- 📚 Loves to read good books about learning and personal development
+I graduated in 11/2023 at [@coding-bootcamps-eu](https://github.com/coding-bootcamps-eu) and can call myself a Junior Frontend developer.
+[@Here](https://cbe-concert-compass.netlify.app/) you can find the final project I worked on during the course.
 
+Before I became a frontend developer, I worked as a technician and foreworker/team-leader and successfully studied electrical engineering.
+In my previous jobs debugging electrical systems belonged to my daily tasks at work and so I developed a passion for programming ands solving problems. 
 
-My book recommendation for everyone who is interested in getting a better memory: 📚 "Unlimited Memory" by Kevin Horsley 📚
-
-"If you are struggling, you are doing something wrong. There is a better way to do it!" - One of my workmates
 
 
 
