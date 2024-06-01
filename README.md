@@ -4,7 +4,7 @@ I'm a Frontend Developer and I am driven by the belief that continuous learning 
 
 Click [here](https://marcorosenbaum.netlify.app/) to view my portfolio website.
 
-🇸🇪 Currently learning swedish at SFI 🇸🇪
+🇸🇪 Currently learning swedish 🇸🇪
 
 
 
