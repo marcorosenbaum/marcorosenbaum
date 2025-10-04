@@ -2,9 +2,9 @@
 
 I'm a Web Developer and I am driven by the belief that continuous learning is the key to mastery.
 
-Click [here](https://marcorosenbaum.netlify.app/) to view my portfolio website.
+Click [here](https://www.marcorosenbaum.com/) to view my portfolio website.
 
-🇸🇪 Currently learning swedish 🇸🇪
+
 
 
 
